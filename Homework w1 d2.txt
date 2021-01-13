@@ -1,6 +1,0 @@
-/ Create your first HTML page
-/ Use all the tags we learned so far to create your own “presentation page”
-/ This page should contain a picture of you, a list of hobbies and interest
-/ This presentation page should contain also your contacts (email, phone number, socials etc)
-/ [EXTRA] Create a table with your professional and academic experience!
-/ [EXTRA] Push your project to GitHub as a public project and share it on Discord
